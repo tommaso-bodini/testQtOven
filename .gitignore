@@ -1,0 +1,5 @@
+*.c
+*.o
+*.cpp
+*.h
+Makefile
